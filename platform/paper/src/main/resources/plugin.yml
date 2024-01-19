@@ -1,0 +1,4 @@
+name: DiscordCommandBridge
+version: '${version}'
+main: io.github.md5sha256.discordcommandbridge.DiscordCommandBridgePlugin
+api-version: 1.20
